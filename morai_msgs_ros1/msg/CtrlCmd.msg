@@ -1,4 +1,4 @@
-int32 longlCmdType
+int32 longl_cmd_type  # 규칙에 맞게 변경
 
 float64 accel
 float64 brake
