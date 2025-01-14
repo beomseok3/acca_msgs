@@ -1,4 +1,4 @@
-int32 longl_cmd_type
+int32 longlCmdType
 
 float64 accel
 float64 brake
