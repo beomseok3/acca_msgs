@@ -1,7 +1,7 @@
 int32 plane_coordinate_system
 int32 utm_num
 
-geometry_msgs/Vector3 utm_offset
+geometry_msgs/msg/Vector3 utm_offset
 
 string ellipse
 float64 central_latitude

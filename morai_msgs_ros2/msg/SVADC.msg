@@ -1,4 +1,4 @@
-Header header
-int32 collisionCount
-int32 signalViolationCount
-int32 speedLimitCount
+std_msgs/msg/Header header
+int32 collision_count
+int32 signal_violation_count
+int32 speed_limit_count

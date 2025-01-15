@@ -3,12 +3,12 @@ int32 type
 string name
 float64 heading
 
-geometry_msgs/Vector3 velocity
-geometry_msgs/Vector3 acceleration
-geometry_msgs/Vector3 size
-geometry_msgs/Vector3 position
+geometry_msgs/msg/Vector3 velocity
+geometry_msgs/msg/Vector3 acceleration
+geometry_msgs/msg/Vector3 size
+geometry_msgs/msg/Vector3 position
 
-geometry_msgs/Quaternion orientation
+geometry_msgs/msg/Quaternion orientation
 int32 turn_signal
 string[] global_path_info
 int32 lane_departure

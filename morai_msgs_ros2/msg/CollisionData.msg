@@ -8,4 +8,3 @@ ObjectStatus[] collision_object
 
 ObjectStatus[] collision_objecta
 
-

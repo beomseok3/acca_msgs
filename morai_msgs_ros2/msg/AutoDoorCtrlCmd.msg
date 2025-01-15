@@ -1,4 +1,4 @@
-std_msgs/Header header
+std_msgs/msg/Header header
 int32[] id
 
 int32[] open_signal

@@ -1,2 +1,2 @@
-Header header
-int32[] deliveryItem
+std_msgs/msg/Header header
+int32[] delivery_item

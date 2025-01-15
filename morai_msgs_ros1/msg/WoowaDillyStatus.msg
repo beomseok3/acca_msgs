@@ -1,2 +1,2 @@
 Header header
-int32[] deliveryItem
+int32[] delivery_item

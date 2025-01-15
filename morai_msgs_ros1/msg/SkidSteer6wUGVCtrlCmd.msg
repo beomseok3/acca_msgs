@@ -1,9 +1,9 @@
 int32 cmd_type
 
-bool Forward_input
-bool Backward_input
-bool Left_Turn_input
-bool Right_Turn_input
+bool forward_input
+bool backward_input
+bool left_turn_input
+bool right_turn_input
 
 float32 left_front_wheel_rpm
 float32 left_middle_wheel_rpm
@@ -12,6 +12,6 @@ float32 right_front_wheel_rpm
 float32 right_middle_wheel_rpm
 float32 right_rear_wheel_rpm
 
-float32 Target_linear_velocity
-float32 Target_angular_velocity
+float32 target_linear_velocity
+float32 target_angular_velocity
 

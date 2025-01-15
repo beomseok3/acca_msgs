@@ -1,5 +1,5 @@
 Header header
-geometry_msgs/Pose pose
+geometry_msgs/msg/Pose pose
 string map_name
 float32 width
 float32 depth

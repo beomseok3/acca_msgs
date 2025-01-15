@@ -6,4 +6,3 @@ float32 x4
 float32 x5
 float32 x6
 bool GripperStatus
-

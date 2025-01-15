@@ -1,2 +1,2 @@
-bool isPickup
-int32 deliveryItemIndex
+bool is_pickup
+int32 delivery_item_index
