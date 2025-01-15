@@ -1,4 +1,4 @@
-int32 longl_cmd_type
+int32 longlCmdType
 
 float32 position_x
 float32 position_y

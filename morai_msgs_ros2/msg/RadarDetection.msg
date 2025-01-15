@@ -10,3 +10,4 @@ geometry_msgs/Point position              # x, y, z position of each radar detec
 float32 azimuth							  # azimuth angle of each radar detection point in Degree
 float32 rangerate						  # relative velocity of the radar detected target w.r.t radial direction
 float32 amplitude						  # amplitude of the reflected signal of the radar detected target(rcs)
+

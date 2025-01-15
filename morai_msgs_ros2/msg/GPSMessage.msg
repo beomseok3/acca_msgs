@@ -1,9 +1,9 @@
-std_msgs/Header header
+Header header
 
 float64 latitude
 float64 longitude
 float64 altitude
 
-float64 east_offset
-float64 north_offset
+float64 eastOffset
+float64 northOffset
 int16 status

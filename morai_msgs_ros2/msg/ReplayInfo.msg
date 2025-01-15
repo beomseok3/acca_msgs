@@ -1,4 +1,4 @@
-std_msgs/Header header
+Header header
 
 float64 ego_acc
 float64 ego_brake

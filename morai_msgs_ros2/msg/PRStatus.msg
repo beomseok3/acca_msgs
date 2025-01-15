@@ -1,7 +1,7 @@
-std_msgs/Header header
+Header header
 
-float32 position_x
-float32 position_y
-float32 position_z
+float32 position_X
+float32 position_Y
+float32 position_Z
 float64 heading
-bool mount_status
+bool mountStatus

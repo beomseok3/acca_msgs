@@ -1,4 +1,4 @@
-std_msgs/Header header
+Header header
 
 int32 num_of_npcs
 int32 num_of_pedestrian

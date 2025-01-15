@@ -1,4 +1,4 @@
-std_msgs/Header header
+Header header
 
 string[] idx
 int32[] state
