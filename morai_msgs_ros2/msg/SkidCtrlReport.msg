@@ -1,4 +1,4 @@
-std_msgs/msg/Header header
+std_msgs/Header header
 int32 ctrl_mode
 geometry_msgs/Vector3 acceleration
 geometry_msgs/Vector3 position
