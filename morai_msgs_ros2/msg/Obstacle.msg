@@ -1,4 +1,4 @@
-Header header
+std_msgs/Header header
 geometry_msgs/Pose pose
 string map_name
 float32 width
