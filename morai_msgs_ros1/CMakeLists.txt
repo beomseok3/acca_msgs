@@ -74,13 +74,13 @@ find_package(catkin REQUIRED COMPONENTS
    DillyCmd.msg
    WoowaDillyStatus.msg
    SVADC.msg
-   FaultInjection_Controller.msg
-   FaultInjection_Response.msg
-   FaultInjection_Sensor.msg
-   FaultInjection_Tire.msg
-   FaultStatusInfo_Overall.msg
-   FaultStatusInfo_Sensor.msg
-   FaultStatusInfo_Vehicle.msg
+   FaultInjectionController.msg
+   FaultInjectionResponse.msg
+   FaultInjectionSensor.msg
+   FaultInjectionTire.msg
+   FaultStatusInfoOverall.msg
+   FaultStatusInfoSensor.msg
+   FaultStatusInfoVehicle.msg
    FaultStatusInfo.msg
    UGVServeSkidCtrlCmd.msg
    VelocityCmd.msg
