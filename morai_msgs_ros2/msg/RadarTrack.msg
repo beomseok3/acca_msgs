@@ -7,10 +7,10 @@
 int8 uuid
 
                                             # Note: The z component of these fields is ignored for 2D tracking.
-geometry_msgs/msg/Point position                # x, y, z coordinates of the centroid of the object being tracked.
-geometry_msgs/msg/Vector3 velocity              # The velocity of the object in each spatial dimension.
-geometry_msgs/msg/Vector3 acceleration          # The acceleration of the object in each spatial dimension.
-geometry_msgs/msg/Vector3 size                  # The object size as represented by the radar sensor eg. length, width, height OR the diameter of an ellipsoid in the x, y, z, dimensions
+geometry_msgs/Point position                # x, y, z coordinates of the centroid of the object being tracked.
+geometry_msgs/Vector3 velocity              # The velocity of the object in each spatial dimension.
+geometry_msgs/Vector3 acceleration          # The acceleration of the object in each spatial dimension.
+geometry_msgs/Vector3 size                  # The object size as represented by the radar sensor eg. length, width, height OR the diameter of an ellipsoid in the x, y, z, dimensions
                                             # and is from the sensor frame's view.
 uint16 classification                       # An optional classification of the object (see above)
 
