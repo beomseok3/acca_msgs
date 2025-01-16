@@ -1,5 +1,5 @@
-FaultStatusInfo_Overall accel
-FaultStatusInfo_Overall brake
-FaultStatusInfo_Overall steer
-FaultStatusInfo_Overall[] tires
+FaultStatusInfoOverall accel
+FaultStatusInfoOverall brake
+FaultStatusInfoOverall steer
+FaultStatusInfoOverall[] tires
 
