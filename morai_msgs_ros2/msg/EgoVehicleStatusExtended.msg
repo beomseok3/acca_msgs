@@ -1,8 +1,8 @@
 Header header
 int32 unique_id
-geometry_msgs/vector3 acceleration
-geometry_msgs/vector3 position
-geometry_msgs/vector3 velocity
+geometry_msgs/Vector3 acceleration
+geometry_msgs/Vector3 position
+geometry_msgs/Vector3 velocity
 
 float64 heading
 float32 accel
