@@ -1,1 +1,1 @@
-bool requestRespawn
+bool request_respawn
