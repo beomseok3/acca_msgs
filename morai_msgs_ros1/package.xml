@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>morai_msgs</name>
+  <name>acca_msgs</name>
   <version>0.0.0</version>
   <description>The morai_msgs package</description>
 
