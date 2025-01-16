@@ -1,9 +1,9 @@
 std_msgs/msg/Header header
 int32 ctrl_mode
-geometry_msgs/msg/Vector3 acceleration
-geometry_msgs/msg/Vector3 position
-geometry_msgs/msg/Vector3 velocity
-geometry_msgs/msg/Vector3 angular_velocity
+geometry_msgs/Vector3 acceleration
+geometry_msgs/Vector3 position
+geometry_msgs/Vector3 velocity
+geometry_msgs/Vector3 angular_velocity
 float32 heading
 int32 cmd_type
-morai_msgs_ros2/msg/SkidModel skid_model_report
+SkidModel skid_model_report
