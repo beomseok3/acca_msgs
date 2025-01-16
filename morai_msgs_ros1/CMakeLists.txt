@@ -130,7 +130,7 @@ find_package(catkin REQUIRED COMPONENTS
    DEPENDENCIES
    geometry_msgs
    std_msgs
-   message_generation##
+   
  )
 
 catkin_package(
