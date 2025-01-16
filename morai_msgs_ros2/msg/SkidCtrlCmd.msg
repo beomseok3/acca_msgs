@@ -1,3 +1,3 @@
 int32 cmd_type
-morai_msgs_ros2/msg/SkidModel skid_model_ctrl
-geometry_msgs/msg/Twist velocity_ctrl
+SkidModel skid_model_ctrl
+geometry_msgs/Twist velocity_ctrl
