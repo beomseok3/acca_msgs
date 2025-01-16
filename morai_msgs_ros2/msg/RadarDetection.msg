@@ -5,7 +5,7 @@
 # Object classifications (Additional vendor-specific classifications are permitted starting from 32000 eg. Car)
 
 uint16 detection_id                       # Index of each radar detection point
-geometry_msgs/msg/Point position              # x, y, z position of each radar detection point
+geometry_msgs/Point position              # x, y, z position of each radar detection point
 
 float32 azimuth							  # azimuth angle of each radar detection point in Degree
 float32 rangerate						  # relative velocity of the radar detected target w.r.t radial direction
