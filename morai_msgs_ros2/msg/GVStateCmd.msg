@@ -1,4 +1,4 @@
-int32 latCtrlType
-float32 targetLongitudinalVelocity
-float32 targetAngularVelocity
-float32[10] targetSteerAngle
+int32 lat_ctrl_type
+float32 target_longitudinal_velocity
+float32 target_angular_velocity
+float32[10] target_steer_angle
