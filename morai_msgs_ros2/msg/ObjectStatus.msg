@@ -3,7 +3,7 @@ int32 type
 string name
 float64 heading
 
-geometry_msgs/msg/Vector3 velocity
-geometry_msgs/msg/Vector3 acceleration
-geometry_msgs/msg/Vector3 size
-geometry_msgs/msg/Vector3 position
+geometry_msgs/Vector3 velocity
+geometry_msgs/Vector3 acceleration
+geometry_msgs/Vector3 size
+geometry_msgs/Vector3 position
